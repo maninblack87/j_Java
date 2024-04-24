@@ -20,7 +20,7 @@ class Box {
     }
     private int getLength(){
         return length;
-    }
+    } 
     private int getHeight(){
         return height;
     }
