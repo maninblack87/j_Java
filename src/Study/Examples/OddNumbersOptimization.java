@@ -18,7 +18,6 @@ class MyOddNumbers {
         System.out.printf("1부터 %d까지의 홀수의 합은: %d\n", number, result);
     }
 }
-
 public class OddNumbersOptimization {
     public static void main(String[] args) {
         System.out.println("\n<< 제목 >>  1부터 10까지의 홀수\n");

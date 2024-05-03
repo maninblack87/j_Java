@@ -15,7 +15,6 @@ class MyOddNumbers {
         System.out.printf("1부터 %d까지 홀수의 합 : %d", x, result);
     }
 }
-
 public class OddNumbers2 {
     public static void main(String[] args) {
         MyOddNumbers n = new MyOddNumbers(10);

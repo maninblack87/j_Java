@@ -24,6 +24,7 @@ public class Gcd2 {
             return a;
         } else {
             return calculateGCD(b, a % b);
+            
         }
     }
 }
