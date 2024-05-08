@@ -12,7 +12,7 @@ public class Complex {
     }
     double getImag(){
         return imag;
-    }
+    } -
     public Complex add(Complex c){
         double resultReal = real + c.getReal();
         double resultImag = imag + c.getImag();
