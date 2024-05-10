@@ -1,4 +1,6 @@
-package Study;
+// 인수의 개수를 자유롭게 입력 가능해서
+
+package Study.Important;
 
 class Test {
     void sub(int... v){
