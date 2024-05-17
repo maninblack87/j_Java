@@ -56,6 +56,7 @@ public class Quiz240510 {
         operation = sc.next();
         System.out.print("두 번째 숫자를 입력해주세요: ");
         num2 = sc.nextInt();
+        sc.close();
 
         Calculator c = new Calculator(num1, num2, operation);
     }
