@@ -1,4 +1,4 @@
-package Study.CarManagement;
+package Study.Inheritance1;
 
 import java.util.ArrayList;
 

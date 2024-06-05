@@ -1,4 +1,4 @@
-package Study.CarManagement;
+package Study.Inheritance1;
 
 public class Sedan extends Car {
     // 변수
