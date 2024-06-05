@@ -1,4 +1,4 @@
-package Study.Important;
+package Study;
 
 import java.util.*;
 

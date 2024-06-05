@@ -1,4 +1,4 @@
-package Study.Important;
+package Study;
 
 // 사용자에게 선택지를 제공 >> 도서 추가, 삭제, 조회 수행  (메서드로 구현, 기본적인 예외처리 포함)
 // 조회시 제목을 통해 조회
