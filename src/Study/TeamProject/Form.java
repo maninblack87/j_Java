@@ -140,8 +140,5 @@ public class Form extends JFrame {
         // 프레임을 표시한다
         frame.setVisible(true);
     }
-
-    public static void main(String[] args) {
-        Form f = new Form();
-    }
+    
 }

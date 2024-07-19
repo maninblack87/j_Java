@@ -5,6 +5,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Main {
+    
     static class Product {
         String name;
         double price;
